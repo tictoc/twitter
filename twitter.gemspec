@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'memoizable', '~> 0.3.1'
   spec.add_dependency 'simple_oauth', '~> 0.2.0'
   spec.add_development_dependency 'bundler', '~> 1.0'
-  spec.authors = ["Erik Michaels-Ober", "John Nunemaker", "Wynn Netherland", "Steve Richert", "Steve Agalloco"]
+  spec.authors = ["Ryan Stenhouse", "Erik Michaels-Ober", "John Nunemaker", "Wynn Netherland", "Steve Richert", "Steve Agalloco"]
   spec.cert_chain  = ['certs/sferik.pem']
   spec.description = %q{A Ruby interface to the Twitter API.}
   spec.email = ["sferik@gmail.com"]
