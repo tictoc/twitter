@@ -1,7 +1,7 @@
 # The Twitter Ruby Gem
 
 [![Gem Version](https://badge.fury.io/rb/twitter.png)][gem]
-[![Build Status](https://secure.travis-ci.org/sferik/twitter.png?branch=master)][travis]
+[![Build Status](https://secure.travis-ci.org/HHRy/twitter.png?branch=master)][travis]
 [![Dependency Status](https://gemnasium.com/sferik/twitter.png?travis)][gemnasium]
 [![Code Climate](https://codeclimate.com/github/sferik/twitter.png)][codeclimate]
 [![Coverage Status](https://coveralls.io/repos/sferik/twitter/badge.png?branch=master)][coveralls]
